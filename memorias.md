@@ -8,3 +8,7 @@ las eliminamos
 - Convertimos la fecha de formato unix a formato fecha año mes y dia.
 
 - Graficos con los estados
+
+## 1-febrero
+
+- Organizar le readme
