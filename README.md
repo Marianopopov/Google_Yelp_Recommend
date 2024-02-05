@@ -41,6 +41,27 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 
 ### *KPIs*
 
+$$Ratio_{respuestas} = \frac{\text{$\sum$  resp de reviews}}{\text{$\sum$ reviews con reseñas}}$$
+
+Queremos aumentar $Ratio_{respuestas}$ en un 10% respecto al año
+
+- **Densidad_negocios**
+
+$$Ratio_{estado} = \frac{\sum{business}}{\sum{poblacion}}\cdot 100.000$$
+
+
+
+- **Cantidad de reseñas**
+
+  $$\frac{\sum \text{(reseñas actuales)} - \sum\text{(reseñas año anterior)}}{\sum\text{(reseñas año anterior)}}$$
+
+- **Cantidad de Rating positivos**
+  $$\frac{\sum \text{(reviews positivas actuales)} - \sum\text{(reviews positivas año anterior)}}{\sum\text{(reviews positivas año anterior)}}$$
+
+Una review positiva es cuando recibe 4 o 5 estrellas.
+
+
+
 ### *Entregables*
 
 ### *Restricciones y Limitaciones*
