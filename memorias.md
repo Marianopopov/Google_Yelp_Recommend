@@ -11,4 +11,4 @@ las eliminamos
 
 ## 1-febrero
 
-- Organizar le readme
+- Organizar el readme
