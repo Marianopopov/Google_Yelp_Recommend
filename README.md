@@ -45,12 +45,11 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 <img src="./images/gantt.jpg" >
 </div>
 
-
-
 ### *KPIs*
 
 - **Respuestas de negocios**
-$$Ratio_{respuestas} = \frac{\text{$\sum$  resp de reviews}}{\text{$\sum$ reviews con reseñas}}$$
+
+$$Ratio_{respuestas} = \frac{\text{$\sum$ resp de reviews}}{\text{$\sum$ reviews con reseñas}}$$
 
 Queremos aumentar $Ratio_{respuestas}$ en un 10% respecto al año
 
@@ -58,21 +57,14 @@ Queremos aumentar $Ratio_{respuestas}$ en un 10% respecto al año
 
 $$Ratio_{estado} = \frac{\sum{business}}{\sum{poblacion}}\cdot 100.000$$
 
-
-
-
-
 - **Cantidad de Rating positivos**
   $$\frac{\sum \text{(reviews positivas actuales)} - \sum\text{(reviews positivas año anterior)}}{\sum\text{(reviews positivas año anterior)}}$$
 
 Una review positiva es cuando recibe 4 o 5 estrellas.
 
-
 - **Densidad de area de negocio**
 
   $$Ratio_{area}  = \frac{\sum \text{(business actual)} }{\text{Área estado}}$$
-
-
 
 ### *Entregables*
 
