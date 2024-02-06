@@ -12,3 +12,15 @@ las eliminamos
 ## 1-febrero
 
 - Organizar el readme
+
+## Division de tareas
+
+Mariano : Dataproc, etl final en pyspark (google)  
+ 
+Martin : Dataproc, etl final en pyspark (google)
+
+Belen : Dataproc, etl final en pyspark (google)
+
+Alejo :  Dataproc, etl final en pyspark (yelp)
+
+Marcelo : Dataproc, etl final en pyspark (yelp)
