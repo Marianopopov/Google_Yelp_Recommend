@@ -42,7 +42,7 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 
 <div align="center">
 
-<img src="./images/gantt.jpg"  height="600">
+<img src="./images/gantt.jpg" >
 </div>
 
 
