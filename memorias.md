@@ -15,12 +15,20 @@ las eliminamos
 
 ## Division de tareas
 
-Mariano : Dataproc, etl final en pyspark (google)  
+Mariano : dataflow, etl final en pyspark (google)  
  
-Martin : Dataproc, etl final en pyspark (google)
+Martin : dataflow, etl final en pyspark (google)
 
-Belen : Dataproc, etl final en pyspark (google)
+Belen : dataflow, etl final en pyspark (google)
 
-Alejo :  Dataproc, etl final en pyspark (yelp)
+Alejo :  dataflow, etl final en pyspark (yelp)
 
-Marcelo : Dataproc, etl final en pyspark (yelp)
+Marcelo : dataflow, etl final en pyspark (yelp)
+
+- Entendimiento de la situación actual:
+
+- Objetivos
+
+- Alcance
+
+- Objetivos y KPIs asociados (planteo)

@@ -39,6 +39,14 @@ El presente documento establece el alcance del proyecto de análisis de opinione
 
 El proyecto seguirá una metodología de trabajo en equipo que incluye las siguientes etapas:
 
+
+<div align="center">
+
+<img src="./images/gantt.jpg"  height="600">
+</div>
+
+
+
 ### *KPIs*
 
 - **Respuestas de negocios**
