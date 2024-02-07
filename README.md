@@ -59,7 +59,7 @@ $$
 
 
 
-<p align='center'> <b>Objetivo:</b> Aumentar las respuestas de negocios en un 5% respecto al mes anterior.
+<p align='center'> <b>Objetivo:</b> Aumentar las respuestas de negocios en un 3% respecto al mes anterior.
 
 ----------------------
 <!-- - **Evolución de la Cantidad de negocios**
@@ -74,9 +74,10 @@ $$
 - **Cantidad de Rating positivos**
   $$\frac{\sum \text{(reviews positivas actuales)} - \sum\text{(reviews positivas año anterior)}}{\sum\text{(reviews positivas año anterior)}}$$
 
- Una review positiva es cuando recibe 4 o 5 estrellas.
+ 
 
  <p align='center'><b>Objetivo:</b> Aumentar un 10% las reviews positivas comparadas con el año anterior.
+<p align='center'>(Una review positiva es cuando recibe 4 o 5 estrellas)
 
 --------
 
