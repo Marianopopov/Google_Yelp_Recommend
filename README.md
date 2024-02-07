@@ -55,21 +55,43 @@ $$
 
 
 
-<p align='center'>Queremos aumentar las respuestas de negocios en un 10% respecto al año anterior.
+<p align='center'> <b>Objetivo:</b> Queremos aumentar las respuestas de negocios en un 10% respecto al año anterior.
 
+----------------------
 - **Evolución de la Cantidad de negocios**
 
 $$\frac{\text{$\sum$ business actual} - \text{$\sum$ business anterior} }{\text{$\sum$  business anterior}}
 $$
 
+ <p align='center'><b>Objetivo:</b> Queremos aumentar las respuestas de negocios en un 10% respecto al año anterior.
+
+-----------------
+
 - **Cantidad de Rating positivos**
   $$\frac{\sum \text{(reviews positivas actuales)} - \sum\text{(reviews positivas año anterior)}}{\sum\text{(reviews positivas año anterior)}}$$
 
-<p align='center'> Una review positiva es cuando recibe 4 o 5 estrellas.
+ Una review positiva es cuando recibe 4 o 5 estrellas.
+
+ <p align='center'><b>Objetivo:</b> Queremos aumentar las respuestas de negocios en un 10% respecto al año anterior.
+
+--------
 
 - **Densidad de area de negocio**
 
   $$Ratio_{area}  = \frac{\sum \text{(business actual)} }{\text{Área estado}}$$
+
+  <p align='center'> <b>Objetivo:</b> Queremos aumentar las respuestas de negocios en un 10% respecto al año anterior.
+
+
+--------------------
+
+- **Satisfacción de clientes**
+
+    $$\frac{\sum{reviews(_{positivos}^{sentimiento})}}{\sum{reviews}}$$
+
+ <p align='center'><b>Objetivo:</b> Queremos aumentar las respuestas de negocios en un 10% respecto al año anterior.
+
+--------------------
 
 ### *Entregables*
 
