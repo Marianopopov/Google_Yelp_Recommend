@@ -119,6 +119,7 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 - [![Folium](https://img.shields.io/badge/Library-Folium-green)](https://python-visualization.github.io/folium/)
 - [![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
 - [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-purple)](https://streamlit.io/)
+- [![Apache Spark](https://img.shields.io/badge/Big%20Data-Apache%20Spark-yellow)](https://spark.apache.org/)
 - [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 - [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
 - [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
