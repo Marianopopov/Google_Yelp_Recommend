@@ -117,10 +117,13 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 - [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)](https://matplotlib.org/)
 - [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
 - [![Folium](https://img.shields.io/badge/Library-Folium-green)](https://python-visualization.github.io/folium/)
+- [![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
+- [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-purple)](https://streamlit.io/)
 - [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
 - [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
-- [![MySQL](https://img.shields.io/badge/Database-MySQL-orange)](https://www.mysql.com/)
 - [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
+- [![Google Cloud Platform](https://img.shields.io/badge/Cloud%20Provider-Google%20Cloud%20Platform-blue)](https://cloud.google.com/)
+
 
 ## Cronograma
 
