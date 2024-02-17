@@ -24,7 +24,7 @@ def hello_gcs(event, context):
     project_id = 'bionic-store-413117'
     region = 'us-central1'
     cluster_name = 'cluster-dc06'
-    job_file_uri = 'gs://proyecto_final_henry/etl_incremental.py'
+    job_file_uri = f"gs://proyecto_final_henry/{file['name']}"
     
     print('prejob')
     
