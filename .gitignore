@@ -163,5 +163,6 @@ user*.gz
 
 data/*
 test*.*
-/notebooks/ETL/*
+/notebooks/ETL/*.csv
 *.csv
+/notebooks/ETL/*.csv.gz
