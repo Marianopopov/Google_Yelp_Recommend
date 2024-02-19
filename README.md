@@ -139,7 +139,8 @@ El proyecto se desarrollará en un período de 6 semanas, con tres sprint que so
 
 ## *Fuentes de datos*
 
-- [Diccionario de Datos](https://docs.google.com/document/d/1ASLMGAgrviicATaP1UJlflpmBCXtuSTHQGWdQMN6_2I/edit)
+- [Diccionario de Datos](https://docs.google.com/document/d/1JyRMQQJPGitQEPz7D5zgcfMOSEScAjzd-6Sq229kZZQ/edit)
+
 ### Fuentes de datos obligatorias:
 - [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
 
