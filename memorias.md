@@ -32,3 +32,12 @@ Marcelo : dataflow, etl final en pyspark (yelp)
 - Alcance
 
 - Objetivos y KPIs asociados (planteo)
+
+
+## Creacion de tabla en bigquery
+
+CREATE OR REPLACE EXTERNAL TABLE `bionic-store-413117.yelp.users`
+OPTIONS (
+  format='CSV',
+  uris=['gs://datos_procesados/users_clear.csv.gz']
+);
