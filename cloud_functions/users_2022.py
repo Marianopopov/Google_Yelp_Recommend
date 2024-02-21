@@ -13,7 +13,7 @@ def eliminar_archivo_gs(bucket_name, file_name):
     blob = bucket.blob(file_name)
     blob.delete()
 
-users_2022_file_path = 'gs://proyecto_final_henry/users_2022.csv.gz'
+users_2022_file_path = 'gs://data_raw_pf/users_2022.csv.gz'
 users_2022 = pd.read_csv(users_2022_file_path, compression='gzip')
 
 users_2022.drop_duplicates(inplace=True)
@@ -38,11 +38,11 @@ nuevos_nombres = {
 users_2022.rename(columns=nuevos_nombres, inplace=True)
 
 ## concatenarlo
-users_file_path = 'gs://datos_procesados/users_clear.csv.gz'
+users_file_path = 'gs://data_clear/users_clear.csv.gz'
 users_clear = pd.read_csv(users_file_path, compression='gzip')
 
 users_clear_full = pd.concat([users_clear, users_2022])
 users_clear_full.drop_duplicates(inplace=True)
-users_clear_full.to_csv('gs://datos_procesados/users_clear.csv.gz',compression='gzip',index=False)
+users_clear_full.to_csv('gs://data_clear/users_clear.csv.gz',compression='gzip',index=False)
 
-eliminar_archivo_gs('proyecto_final_henry','users_2022.csv.gz')
+eliminar_archivo_gs('data_raw_pf','users_2022.csv.gz')

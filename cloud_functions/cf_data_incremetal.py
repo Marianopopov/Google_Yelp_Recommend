@@ -1,9 +1,12 @@
 
 ## Requirement
-#  google-cloud-dataproc
-#  google-cloud-core
+# google-cloud-dataproc
+# google-cloud-core
 # nltk 
 # pandas
+# slack-sdk
+# python-decouple
+
 
 from decouple import config 
 
@@ -58,7 +61,7 @@ def hello_gcs(event, context):
       project_id = 'bionic-store-413117'
       region = 'us-central1'
       cluster_name = 'cluster-dc06'
-      job_file_uri = f"gs://proyecto_final_henry/cloud_function_py/{file['name'][:-6] +'py'}"
+      job_file_uri = f"gs://data_raw_pf/cloud_function_py/{file['name'][:-6] +'py'}"
       
     except:
       print('Este archivo no existe')

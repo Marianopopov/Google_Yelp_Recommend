@@ -17,7 +17,7 @@ def eliminar_archivo_gs(bucket_name, file_name):
     blob = bucket.blob(file_name)
     blob.delete()
 
-reviews_2022_path = 'gs://proyecto_final_henry/reviews_2022.csv.gz'
+reviews_2022_path = 'gs://data_raw_pf/reviews_2022.csv.gz'
 reviews_2022 = pd.read_csv(reviews_2022_path)
 
 
@@ -43,12 +43,12 @@ nuevos_nombres = {
 
 reviews_2022.rename(columns=nuevos_nombres, inplace=True)
 
-reviews_clear = pd.read_csv('gs://datos_procesados/reviews_clear.csv.gz')
+reviews_clear = pd.read_csv('gs://data_clear/reviews_clear.csv.gz')
 
 reviews_clear_full = pd.concat([reviews_clear, reviews_2022])
 reviews_clear_full.drop_duplicates(inplace=True)
 
-reviews_clear_full.to_csv('gs://datos_procesados/reviews_clear.csv.gz',compression='gzip',index=False)
+reviews_clear_full.to_csv('gs://data_clear/reviews_clear.csv.gz',compression='gzip',index=False)
 
-eliminar_archivo_gs('proyecto_final_henry','reviews_2022.csv.gz')
+eliminar_archivo_gs('data_raw_pf','reviews_2022.csv.gz')
 
