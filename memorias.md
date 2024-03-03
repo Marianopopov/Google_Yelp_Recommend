@@ -41,3 +41,4 @@ OPTIONS (
   format='CSV',
   uris=['gs://datos_procesados/users_clear.csv.gz']
 );
+

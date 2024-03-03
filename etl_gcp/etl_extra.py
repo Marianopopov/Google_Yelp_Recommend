@@ -2,7 +2,7 @@ import pandas as pd
 from google.cloud import storage
 
 csv_file_path = 'gs://data_raw_pf/info_estados.csv.gz'
-info = pd.read_csv(csv_file_path, delimiter=';')
+info = pd.read_csv(csv_file_path)
 
 nuevos_nombres = {
     'nombre_estado': 'Estado',
