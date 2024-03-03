@@ -122,10 +122,9 @@ estados.drop(columns=['text','sentiment','fecha','resp_fecha'],inplace=True)
 estados['nombre_estado'] = estados['nombre_estado'].apply(lambda x : x[:-8])
 
 
-estados.to_csv('gs://data_clear/estados_concatenados_clear.csv.gz')
+estados.to_csv('gs://data_clear/estados_concatenados_clear.csv.gz',index = False)
 print('preparando para eliminar')
 eliminar_archivo_gs('data_raw_pf', 'estados_concatenados.csv.gz')
 
 
 print('ETL realizado con exito...')
-
