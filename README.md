@@ -1,11 +1,12 @@
 # <a name="readme-top"></a>
 
-# <h1 align="center">*GOOGLE MAPS_YELP - RECOMMENDATIONS*</h1>
+
+# <h1 align="center">*Recomendación de negocios*</h1>
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/2560px-Yelp_Logo.svg.png"  height="100">
+<img src="images/logo_empresa.jpg"  height="200">
+
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Google_Maps_Logo_2020.svg/512px-Google_Maps_Logo_2020.svg.png"  height="100">
 
 ## *Índice de Contenidos*
 
@@ -49,6 +50,9 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 <img src="./images/gantt.jpg" >
 </div>
 
+
+
+
 ### *KPIs*
 
 - **Respuestas de negocios**
@@ -74,7 +78,6 @@ $$
 - **Cantidad de Rating positivos**
   $$\frac{\sum \text{(reviews positivas actuales)} - \sum\text{(reviews positivas año anterior)}}{\sum\text{(reviews positivas año anterior)}}$$
 
- 
 
  <p align='center'><b>Objetivo:</b> Aumentar un 10% las reviews positivas comparadas con el año anterior.
 <p align='center'>(Una review positiva es cuando recibe 4 o 5 estrellas)
@@ -137,19 +140,25 @@ El proyecto se desarrollará en un período de 6 semanas, con tres sprint que so
 
 - Sprint 3: Data Analitics y Machine learning. 2 Semanas.
 
+
+### Diagramas entidad relación
+
+<p align="center">
+<img src="./images/DER-Google.png"  height="250" width=400 >
+<img src="./images/diagrama.png"  height="250"   >
+
+
 ## *Fuentes de datos*
 
 - [Diccionario de Datos](https://docs.google.com/document/d/1JyRMQQJPGitQEPz7D5zgcfMOSEScAjzd-6Sq229kZZQ/edit)
 
 ### Fuentes de datos obligatorias:
+
 - [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
 
 - [Dataset de Yelp!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=sharing)
 
 ## *Acerca de nosotros*
-
-Completar ..... 
-
 
 [linkedin-logo]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteLogoDelDi%CC%81a-LinkedIn-un-emblema-que-esta%CC%81-22dentro22-1110x366.jpg
 
