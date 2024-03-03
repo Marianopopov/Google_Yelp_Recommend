@@ -19,9 +19,9 @@
   - [Diagrama de Gantt](#diagrama-de-gantt)
   - [KPIs](#kpis)
   - [Restricciones y Limitaciones](#restricciones-y-limitaciones)
-- [Stack tecnológico](#stack-tecnológico)
 - [Fuentes de datos](#fuentes-de-datos)
 - [Acerca de nosotros](#acerca-de-nosotros)
+- [Stack tecnológico](#acerca-de-nosotros)
 
 
 ## *Introducción*
@@ -49,6 +49,7 @@ El presente documento establece el alcance del proyecto de análisis de opinione
 El proyecto se desarrollará en un período de 6 semanas, con tres sprint que son los siguientes:
 
 - Sprint 1: Puesta en macha del proyecto. 2 Semanas
+  - dsa
 
 - Sprint 2: Data Engineering. 2 Semanas
 
@@ -129,23 +130,6 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 
 </details>
 
-### *Stack tecnológico*
-
-- [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
-- [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)
-- [![Pandas](https://img.shields.io/badge/Library-Pandas-brightgreen)](https://pandas.pydata.org/)
-- [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)](https://matplotlib.org/)
-- [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
-- [![Folium](https://img.shields.io/badge/Library-Folium-green)](https://python-visualization.github.io/folium/)
-- [![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
-- [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-purple)](https://streamlit.io/)
-- [![Apache Spark](https://img.shields.io/badge/Big%20Data-Apache%20Spark-yellow)](https://spark.apache.org/)
-- [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
-- [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
-- [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
-- [![Google Cloud Platform](https://img.shields.io/badge/Cloud%20Provider-Google%20Cloud%20Platform-blue)](https://cloud.google.com/)
-
-<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
 ## *Fuentes de datos*
 
@@ -214,5 +198,19 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
     <td align="center"><a href="https://github.com/martinarielriveros"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
   </tr>
 </table>
+
+ [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
+ [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)
+ [![Pandas](https://img.shields.io/badge/Library-Pandas-brightgreen)](https://pandas.pydata.org/)
+ [![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-blue)](https://matplotlib.org/)
+ [![Seaborn](https://img.shields.io/badge/Library-Seaborn-yellow)](https://seaborn.pydata.org/)
+ [![Folium](https://img.shields.io/badge/Library-Folium-green)](https://python-visualization.github.io/folium/)
+ [![scikit-learn](https://img.shields.io/badge/Library-scikit--learn-red)](https://scikit-learn.org/)
+ [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-purple)](https://streamlit.io/)
+ [![Apache Spark](https://img.shields.io/badge/Big%20Data-Apache%20Spark-yellow)](https://spark.apache.org/)
+ [![GitHub](https://img.shields.io/badge/Platform-GitHub-lightgrey)](https://github.com/)
+ [![Git](https://img.shields.io/badge/Version%20Control-Git-blue)](https://git-scm.com/)
+ [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
+ [![Google Cloud Platform](https://img.shields.io/badge/Cloud%20Provider-Google%20Cloud%20Platform-blue)](https://cloud.google.com/)
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
