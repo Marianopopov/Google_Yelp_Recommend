@@ -207,4 +207,3 @@ Completar .....
   </tr>
 </table>
 
-<img src="images/alejandro.jpg" >
