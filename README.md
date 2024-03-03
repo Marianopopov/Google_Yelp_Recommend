@@ -49,10 +49,9 @@ El presente documento establece el alcance del proyecto de análisis de opinione
 El proyecto se desarrollará en un período de 6 semanas, con tres sprint que son los siguientes:
 
 - Sprint 1: Puesta en macha del proyecto. 2 Semanas
-  - dsa
-
+  
 - Sprint 2: Data Engineering. 2 Semanas
-
+  - 
 - Sprint 3: Data Analitics y Machine learning. 2 Semanas.
 
 ### Diagramas entidad relación
