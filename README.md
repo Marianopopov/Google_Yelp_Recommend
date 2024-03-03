@@ -74,25 +74,14 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 
 ### *KPIs*
 
-- **Respuestas de negocios**
+<div align="center">
 
-$$\frac{\frac{\text{$\sum$ resp mes actual}}{\text{$\sum$ reseñas mes actual}} - \frac{\text{$\sum$ resp mes anterior}}{\text{$\sum$ reseñas mes anterior}} }{\frac{\text{$\sum$ resp mes anterior}}{\text{$\sum$ reseñas mes anterior}}}
-$$
-
-
+<img src="./images/kpis/Respuesta_Negocios.png" width=600>
+</div>
 
 
 <p align='center'> <b>Objetivo:</b> Aumentar las respuestas de negocios en un 3% respecto al mes anterior.
 
-----------------------
-<!-- - **Evolución de la Cantidad de negocios**
-
-$$\frac{\text{$\sum$ business actual} - \text{$\sum$ business anterior} }{\text{$\sum$  business anterior}}
-$$
-
- <p align='center'><b>Objetivo:</b> Queremos aumentar las respuestas de negocios en un 10% respecto al año anterior.
-
------------------ -->
 
 - **Cantidad de Rating positivos**
   $$\frac{\sum \text{(reviews positivas actuales)} - \sum\text{(reviews positivas año anterior)}}{\sum\text{(reviews positivas año anterior)}}$$
@@ -100,14 +89,6 @@ $$
 
  <p align='center'><b>Objetivo:</b> Aumentar un 10% las reviews positivas comparadas con el año anterior.
 <p align='center'>(Una review positiva es cuando recibe 4 o 5 estrellas)
-
---------
-
-- **Densidad de area de negocio (por Estado)**
-
-  $$Ratio_{area}  = \frac{\sum \text{(business actual)} }{\text{Área estado}}$$
-
-  <p align='center'> <b>Objetivo:</b> Aumentar un 5% el ratio de negocios abiertos  en un estado en función de su área, respecto al ratio del año anterior.
 
 
 --------------------
