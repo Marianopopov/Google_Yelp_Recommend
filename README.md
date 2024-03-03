@@ -4,20 +4,21 @@
 # <h1 align="center">*Recomendación de negocios*</h1>
 
 <p align="center">
-<img src="images/logo_empresa.jpg"  height="200">
-
+  <img src="images/logo_empresa.jpg"  height="200">
 <p align="center">
+
 
 ## *Índice de Contenidos*
 
 - [Introducción](#introducción)
 - [Contexto](#contexto)
 - [Alcance](#alcance)
+  - [Flujo de Trabajo](#flujo-de-trabajo)
   - [Cronograma](#cronograma)
+  - [DER](#diagramas-entidad-relación)
   - [Diagrama de Gantt](#diagrama-de-gantt)
   - [KPIs](#kpis)
   - [Restricciones y Limitaciones](#restricciones-y-limitaciones)
-- [Entregables](#entregables)
 - [Stack tecnológico](#stack-tecnológico)
 - [Fuentes de datos](#fuentes-de-datos)
 - [Acerca de nosotros](#acerca-de-nosotros)
@@ -34,11 +35,31 @@ Además nuestro cliente desea determinar estratégicamente la ubicación de nuev
 
 La retroalimentación de los usuarios, cada vez más abundante gracias a plataformas de reseñas, es un recurso valioso para los negocios de comida rápida. Yelp y Google Maps son dos plataformas destacadas que ofrecen reseñas específicamente para este tipo de establecimientos. Los usuarios comparten sus experiencias, proporcionando a las empresas de comida rápida una visión detallada de cómo son percibidas por sus clientes. Esta información resulta esencial para evaluar el rendimiento, utilidad y áreas de mejora de los servicios ofrecidos por cada local de comida rápida. La capacidad de los usuarios para tomar decisiones basadas en estas reseñas subraya la importancia crítica de mantener una imagen positiva en estas plataformas para el éxito comercial en la industria de la comida rápida.
 
-<summary><h2>Alcance</h2></summary>
+## Alcance
 
 El presente documento establece el alcance del proyecto de análisis de opiniones de usuarios
 
-### Objetivos del Proyecto
+### Flujo de Trabajo
+<div align="center">
+  <img src="images/workflow.png" width=600>
+</div>
+
+## Cronograma
+
+El proyecto se desarrollará en un período de 6 semanas, con tres sprint que son los siguientes:
+
+- Sprint 1: Puesta en macha del proyecto. 2 Semanas
+
+- Sprint 2: Data Engineering. 2 Semanas
+
+- Sprint 3: Data Analitics y Machine learning. 2 Semanas.
+
+### Diagramas entidad relación
+
+<p align="center">
+<img src="./images/DER-Google.png"  height="250" width=400 >
+<img src="./images/diagrama.png"  height="250"   >
+
 
 ### Diagrama de Gantt
 
@@ -47,10 +68,8 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 
 <div align="center">
 
-<img src="./images/gantt.jpg" >
+<img src="./images/gantt.jpg" width=600>
 </div>
-
-
 
 
 ### *KPIs*
@@ -99,9 +118,6 @@ $$
 
  <p align='center'><b>Objetivo:</b> Aumentar un 5% los reviews de sentimientos positivos respecto al total de reviews comparados con el semestre anterior.
 
---------------------
-
-### *Entregables*
 
 ### *Restricciones y Limitaciones*
 
@@ -129,24 +145,7 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 - [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
 - [![Google Cloud Platform](https://img.shields.io/badge/Cloud%20Provider-Google%20Cloud%20Platform-blue)](https://cloud.google.com/)
 
-
-## Cronograma
-
-El proyecto se desarrollará en un período de 6 semanas, con tres sprint que son los siguientes:
-
-- Sprint 1: Puesta en macha del proyecto. 2 Semanas
-
-- Sprint 2: Data Engineering. 2 Semanas
-
-- Sprint 3: Data Analitics y Machine learning. 2 Semanas.
-
-
-### Diagramas entidad relación
-
-<p align="center">
-<img src="./images/DER-Google.png"  height="250" width=400 >
-<img src="./images/diagrama.png"  height="250"   >
-
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
 ## *Fuentes de datos*
 
@@ -216,3 +215,4 @@ El proyecto se desarrollará en un período de 6 semanas, con tres sprint que so
   </tr>
 </table>
 
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
