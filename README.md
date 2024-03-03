@@ -185,11 +185,11 @@ Completar .....
     <td align="center"><b>Martín Riveros</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="https://media.licdn.com/dms/image/D4D03AQHxyKdkjxaNIw/profile-displayphoto-shrink_200_200/0/1703053789448?e=1712188800&v=beta&t=NmtJKYCnsSSZRYZuaTgbDd1_CtBzOdnGHcoUeU6Vnz8" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/belen-viglioglia-becker/"><img src="https://media.licdn.com/dms/image/D4D35AQFiZNYv93A08Q/profile-framedphoto-shrink_200_200/0/1678551884037?e=1707440400&v=beta&t=V2kPAuRNl0E4EQWnhkDp8z5nkPbNvBGroxL9MUxmmrs" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/dalejandroramirez/"><img src="https://media.licdn.com/dms/image/D4E35AQECkqfYTtJetw/profile-framedphoto-shrink_200_200/0/1687559285382?e=1707440400&v=beta&t=sR_ri9ifjcdm9ClpKsLAPPhKAEwk9huQntCl07iL8c4" width=48 style="border-radius:50%"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mariano-popov-3a4570290/"><img src="https://media.licdn.com/dms/image/D4E03AQGg5qnxEtISmQ/profile-displayphoto-shrink_200_200/0/1706830288635?e=1712188800&v=beta&t=zlPzR7Hzvz5aiJsdi1LR7ahCyExgvRkcZN6yBXofD0Q" width=48 style="border-radius:50%"> </a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/martinriveros/"><img src="https://media.licdn.com/dms/image/D4D03AQHVVaakawEo_g/profile-displayphoto-shrink_800_800/0/1699990983364?e=1712188800&v=beta&t=cvc73VmxiIzKcjSSLqPm9i69xMOCVFXSSA-pSdyTZSY" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="images/marcelo.jfif" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/belen-viglioglia-becker/"><img src="images/belen.jfif" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dalejandroramirez/"><img src="images/alejandro.jfif" width=48 style="border-radius:50%"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mariano-popov-3a4570290/"><img src="images/mariano.jfif" width=48 style="border-radius:50%"> </a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/martinriveros/"><img src="images/martin.jfif" width=48 style="border-radius:50%"></a></td>
   </tr>
   <tr>
     <td align="center">Data Analyst</td>
@@ -206,3 +206,5 @@ Completar .....
     <td align="center"><a href="https://github.com/martinarielriveros"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
   </tr>
 </table>
+
+<img src="images/alejandro.jpg" >
