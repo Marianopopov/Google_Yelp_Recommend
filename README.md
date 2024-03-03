@@ -57,8 +57,8 @@ El proyecto se desarrollará en un período de 6 semanas, con tres sprint que so
 ### Diagramas entidad relación
 
 <p align="center">
-<img src="./images/DER-Google.png"  height="250" width=400 >
-<img src="./images/diagrama.png"  height="250"   >
+<img src="./images/DER-Google.png"  height="260">
+<img src="./images/DER-Yelp.png"  height="260">
 
 
 ### Diagrama de Gantt
