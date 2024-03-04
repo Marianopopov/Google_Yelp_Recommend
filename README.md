@@ -79,7 +79,7 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 </div>
 
 
-<p align='center'> <b>Objetivo:</b> Aumentar las respuestas de negocios en un 3% respecto al mes anterior.
+<p align='center'> <b>Objetivo:</b> Aumentar las respuestas de negocios en un 45% respecto al año anterior.
 
 
 <div align="center">
@@ -99,7 +99,7 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 </div>
 
  <p align='center'><b>Objetivo:</b> Aumentar un 5% los reviews de sentimientos positivos respecto 
-  <p align='center'> al total de reviews comparados con el semestre anterior.
+  <p align='center'> al total de reviews comparados con el año anterior.
 
 ### *Restricciones y Limitaciones*
 
