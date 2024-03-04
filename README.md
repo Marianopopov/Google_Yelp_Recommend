@@ -1,6 +1,5 @@
 # <a name="readme-top"></a>
 
-
 # <h1 align="center">*Recomendación de negocios*</h1>
 
 <p align="center">
@@ -76,26 +75,28 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 
 <div align="center">
 
-<img src="./images/kpis/Respuesta_Negocios.png" width=600>
+<img src="./images/kpis/respuesta_Negocios.png" width=600>
 </div>
 
 
 <p align='center'> <b>Objetivo:</b> Aumentar las respuestas de negocios en un 3% respecto al mes anterior.
 
 
-- **Cantidad de Rating positivos**
-  $$\frac{\sum \text{(reviews positivas actuales)} - \sum\text{(reviews positivas año anterior)}}{\sum\text{(reviews positivas año anterior)}}$$
+<div align="center">
+
+<img src="./images/kpis/rating_positivos.png" width=600>
+</div>
 
 
  <p align='center'><b>Objetivo:</b> Aumentar un 10% las reviews positivas comparadas con el año anterior.
 <p align='center'>(Una review positiva es cuando recibe 4 o 5 estrellas)
 
 
---------------------
 
-- **Satisfacción de clientes**
 
-    $$\frac{\sum{reviews(_{positivos}^{sentimiento})}}{\sum{reviews}}$$
+<div align="center">
+<img src="./images/kpis/satisfaccion_clientes.png" width=600>
+</div>
 
  <p align='center'><b>Objetivo:</b> Aumentar un 5% los reviews de sentimientos positivos respecto al total de reviews comparados con el semestre anterior.
 
