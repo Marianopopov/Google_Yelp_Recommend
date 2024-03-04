@@ -98,8 +98,8 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 <img src="./images/kpis/satisfaccion_clientes.png" width=600>
 </div>
 
- <p align='center'><b>Objetivo:</b> Aumentar un 5% los reviews de sentimientos positivos respecto al total de reviews comparados con el semestre anterior.
-
+ <p align='center'><b>Objetivo:</b> Aumentar un 5% los reviews de sentimientos positivos respecto 
+  <p align='center'> al total de reviews comparados con el semestre anterior.
 
 ### *Restricciones y Limitaciones*
 
