@@ -166,6 +166,3 @@ test*.*
 /notebooks/ETL/*.csv
 *.csv
 /notebooks/ETL/*.csv.gz
-
-
-*.pkl
