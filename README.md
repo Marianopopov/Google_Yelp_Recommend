@@ -74,10 +74,19 @@ El proyecto se desarrollará en un período de 6 semanas, con tres sprint que so
 
 El proyecto seguirá una metodología de trabajo en equipo que incluye las siguientes etapas:
 
-<div align="center">
-
-<img src="./images/gantt.jpg" width=600>
+<div align="center">Sprint 1
 </div>
+<div align="center">
+  <img src="./images/gantt.jpg" width=600>
+</div>
+
+<div align="center">Sprint 2
+</div>
+
+<div align="center">
+  <img src="./images/gantt2.png" width=600>
+</div>
+
 
 ### *KPIs*
 
