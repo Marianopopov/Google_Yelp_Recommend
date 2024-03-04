@@ -6,7 +6,6 @@
   <img src="images/logo_empresa.jpg"  height="200">
 <p align="center">
 
-
 ## *Índice de Contenidos*
 
 - [Introducción](#introducción)
@@ -22,13 +21,11 @@
 - [Acerca de nosotros](#acerca-de-nosotros)
 - [Stack tecnológico](#acerca-de-nosotros)
 
-
 ## *Introducción*
 
 Como parte de una consultora de datos, hemos sido contratados para llevar a cabo un análisis del mercado estadounidense. Nuestro cliente forma parte de un conglomerado de empresas relacionadas con restaurantes relacionadas al rubro fast food, y buscan obtener un análisis detallado de las opiniones de los usuarios en Yelp y cruzarlas con las de Google Maps en relación a dicho rubro. Utilizando análisis de sentimientos, nuestro objetivo es prever si el rubro fast food experimentará un mayor crecimiento o declive.
 
-Además nuestro cliente desea determinar estratégicamente la ubicación de nuevos locales de restaurantes, implementando un sistema de recomendación de restaurantes fast food para usuarios en ambas plataformas. Este sistema ofrecería a los usuarios la oportunidad de descubrir nuevos sabores basados en sus experiencias previas
-
+Además nuestro cliente desea determinar estratégicamente la ubicación de nuevos locales de restaurantes, implementando un sistema de recomendación de restaurantes fast food para usuarios en ambas plataformas. Con nuestro producto los clientes podran identificar oportunidades de creación o compra de negocios.
 
 ## Contexto
 
@@ -39,6 +36,7 @@ La retroalimentación de los usuarios, cada vez más abundante gracias a platafo
 El presente documento establece el alcance del proyecto de análisis de opiniones de usuarios
 
 ### Flujo de Trabajo
+
 <div align="center">
   <img src="images/workflow.png" width=600>
 </div>
@@ -48,10 +46,23 @@ El presente documento establece el alcance del proyecto de análisis de opinione
 El proyecto se desarrollará en un período de 6 semanas, con tres sprint que son los siguientes:
 
 - Sprint 1: Puesta en macha del proyecto. 2 Semanas
-  
+
+  - Inicialización del proyecto realizando mineria de datos y documentación del datawarehouse.
+  - Establecimiento del stack tecnologica que utilzaremos durante el proyecto.
+  - Implementamos la metodología SCRUM realizando daylis, para optimizar la producción.
+  - Realización de tareas puntuales como EDA, KPI's y diagrama de Gantt.
+  - Equipo de trabajo, Roles y responsabilidades.
 - Sprint 2: Data Engineering. 2 Semanas
-  - 
+  - Realización de extracción transformación y carga de la data.
+  - Creación de un flujo automatizado anual, en el que nuestro cliente podra estar actualizado de forma automatica.
+  - Durante la creación del flujo automatico se nos notificará via el slack de la empresa las valizaciones de la tarea de manera automatica.
+  - Documentación: Diagrama entidad relación, Diccionario de datos, Workflow y tecnologías.
+  - MVP/ Proof of Concept de producto de ML ó MVP/ Proof of Concept de Dashboard.
 - Sprint 3: Data Analitics y Machine learning. 2 Semanas.
+  - Diseño de Dashboard realizado en power BI, vizualizado en la página web de la empresa.
+  - Creación de un modelo de recomendación para nuestro cliente y puesta en producción en la página web.
+  - Documentación: selección del modelo, feature engineering, informe de análisis.
+  - Video del proyecto realizado, para ser votado y, en caso de ganar, ser presentado en la graduación final.
 
 ### Diagramas entidad relación
 
@@ -59,17 +70,14 @@ El proyecto se desarrollará en un período de 6 semanas, con tres sprint que so
 <img src="./images/DER-Google.png"  width="600">
 <img src="./images/DER-Yelp.png"  width="600">
 
-
 ### Diagrama de Gantt
 
 El proyecto seguirá una metodología de trabajo en equipo que incluye las siguientes etapas:
-
 
 <div align="center">
 
 <img src="./images/gantt.jpg" width=600>
 </div>
-
 
 ### *KPIs*
 
@@ -78,27 +86,21 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
 <img src="./images/kpis/respuesta_Negocios.png" width=600>
 </div>
 
-
 <p align='center'> <b>Objetivo:</b> Aumentar las respuestas de negocios en un 45% respecto al año anterior.
-
 
 <div align="center">
 
 <img src="./images/kpis/rating_positivos.png" width=600>
 </div>
 
-
  <p align='center'><b>Objetivo:</b> Aumentar un 10% las reviews positivas comparadas con el año anterior.
 <p align='center'>(Una review positiva es cuando recibe 4 o 5 estrellas)
-
-
-
 
 <div align="center">
 <img src="./images/kpis/satisfaccion_clientes.png" width=600>
 </div>
 
- <p align='center'><b>Objetivo:</b> Aumentar un 5% los reviews de sentimientos positivos respecto 
+ <p align='center'><b>Objetivo:</b> Aumentar un 5% los reviews de sentimientos positivos respecto
   <p align='center'> al total de reviews comparados con el año anterior.
 
 ### *Restricciones y Limitaciones*
@@ -111,43 +113,17 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 
 </details>
 
-
 ## *Fuentes de datos*
 
 - [Diccionario de Datos](https://docs.google.com/document/d/1JyRMQQJPGitQEPz7D5zgcfMOSEScAjzd-6Sq229kZZQ/edit)
 
-### Fuentes de datos obligatorias:
+### Fuentes de datos obligatorias
 
 - [Dataset de Google Maps](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA?usp=share_link)
 
 - [Dataset de Yelp!](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF?usp=sharing)
 
 ## *Acerca de nosotros*
-
-[linkedin-logo]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteLogoDelDi%CC%81a-LinkedIn-un-emblema-que-esta%CC%81-22dentro22-1110x366.jpg
-
-[github-logo]: https://img.shields.io/badge/Platform-GitHub-lightgrey
-
-[github-belen]:https://github.com/belenvbecker
-
-[github-mariano]:https://github.com/marianopopov
-
-[github-martin]: https://github.com/martinarielriveros
-
-[github-alejo]: https://github.com/dalejandroramirez
-
-[github-marcelo]: https://github.com/marceloortizz
-
-[linkedin-belen]: https://www.linkedin.com/in/belen-viglioglia-becker/
-
-[linkedin-mariano]: https://www.linkedin.com/in/mariano-popov-3a4570290/
-
-[linkedin-martin]: https://www.linkedin.com/in/martinriveros/
-
-[linkedin-alejo]: https://www.linkedin.com/in/dalejandroramirez/
-
-[linkedin-marcelo]: https://www.linkedin.com/in/marceloortizz/
-
 
 <table align="center">
   <tr>
