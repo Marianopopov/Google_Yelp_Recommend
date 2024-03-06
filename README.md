@@ -87,6 +87,13 @@ El proyecto seguirá una metodología de trabajo en equipo que incluye las sigui
   <img src="./images/gantt2.png" width=600>
 </div>
 
+<div align="center">Sprint 3
+</div>
+
+<div align="center">
+  <img src="./images/Sprint3.png" width=600>
+</div>
+
 
 ### *KPIs*
 
