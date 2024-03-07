@@ -17,6 +17,8 @@
   - [Diagrama de Gantt](#diagrama-de-gantt)
   - [KPIs](#kpis)
   - [Restricciones y Limitaciones](#restricciones-y-limitaciones)
+- [Dashboard](#dashboard-interactivo)
+- [Modelo-Recomendación](#modelo-de-recomendación)  
 - [Fuentes de datos](#fuentes-de-datos)
 - [Acerca de nosotros](#acerca-de-nosotros)
 - [Stack tecnológico](#acerca-de-nosotros)
@@ -38,7 +40,7 @@ El presente documento establece el alcance del proyecto de análisis de opinione
 ### Flujo de Trabajo
 
 <div align="center">
-  <img src="images/workflow.png" width=600>
+  <img src="images/workflow.jpg" width=600>
 </div>
 
 ## Cronograma
@@ -128,6 +130,27 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
 </details>
+
+## Deploy en Streamlit
+
+Realizamos una página web interactiva a través de la herramienta streamlit mediante el cual presentamos nuestros productos desarrollados como son un dashboard y un modelo de recomendación. 
+
+<a href="https://final-grupo5-hfdze4a6jq-uc.a.run.app/">Link Página web</a>
+
+
+## Dashboard Interactivo
+Desarrollamos un dashboard interactivo que brinda información gráfica y detallada de nuestros análisis que permite visualizar de manera clara y concisa los insights obtenidos durante el proceso de análisis de mercado.
+<div align="center">
+  <img src="images/powerbi.jpg">
+</div>
+
+
+## Modelo de recomendación
+
+ Nuestro modelo predictivo de machine learning con base en la proximidad geográfica, la evaluación de usuarios y la oferta de servicios, devuelve recomendaciones valiosas acerca de los negocios de comida rápida en Estados unidos.
+<div align="center">
+  <img src="images/modelo_ML.jpg">
+</div>
 
 ## *Fuentes de datos*
 
