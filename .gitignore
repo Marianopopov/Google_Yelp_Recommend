@@ -166,3 +166,5 @@ test*.*
 /notebooks/ETL/*.csv
 *.csv
 /notebooks/ETL/*.csv.gz
+/web_interface/
+/GCP_service_account
