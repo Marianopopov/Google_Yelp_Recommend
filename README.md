@@ -21,7 +21,7 @@
 - [Modelo-Recomendación](#modelo-de-recomendación)  
 - [Fuentes de datos](#fuentes-de-datos)
 - [Acerca de nosotros](#acerca-de-nosotros)
-- [Stack tecnológico](#acerca-de-nosotros)
+- [Stack tecnológico](#stack-tecnológico)
 
 ## *Introducción*
 
@@ -201,6 +201,10 @@ Desarrollamos un dashboard interactivo que brinda información gráfica y detall
     <td align="center"><a href="https://www.linkedin.com/in/martinriveros/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
   </tr>
 </table>
+
+<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
+
+## Stack tecnológico 
 
  [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
  [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)](https://jupyter.org/)
