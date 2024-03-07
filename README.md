@@ -170,6 +170,13 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
     <td align="center"><a href="https://github.com/marianopopov"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"> </a></td>
     <td align="center"><a href="https://github.com/martinarielriveros"><img src="https://img.shields.io/badge/Platform-GitHub-lightgrey"></a></td>
   </tr>
+  <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/marceloortizz/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/belen-viglioglia-becker/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/dalejandroramirez/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mariano-popov-3a4570290/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"> </a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/martinriveros/"><img src="https://img.shields.io/badge/Platform-LinkedIn-blue"></a></td>
+  </tr>
 </table>
 
  [![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue)](https://code.visualstudio.com/)
@@ -186,4 +193,4 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
  [![Power BI](https://img.shields.io/badge/BI%20Tool-Power%20BI-yellow)](https://powerbi.microsoft.com/)
  [![Google Cloud Platform](https://img.shields.io/badge/Cloud%20Provider-Google%20Cloud%20Platform-blue)](https://cloud.google.com/)
 
-<p align="right">(<a href="#readme-top">ir arriba</a>)</p>
+
