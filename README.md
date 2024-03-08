@@ -41,7 +41,7 @@ El presente documento establece el alcance del proyecto de análisis de opinione
 ### Flujo de Trabajo
 
 <div align="center">
-  <img src="images/workflow.png" width=600>
+  <img src="images/workflow.png">
 </div>
 
 ## Cronograma
