@@ -43,6 +43,9 @@ El presente documento establece el alcance del proyecto de análisis de opinione
 <div align="center">
   <img src="images/workflow.png">
 </div>
+
+
+
 Elegimos realizar la visualizacion e interaccion con los dos productos terminados que ofrecemos, hacerlo a traves de una web. Esta web prrermite interactuar con los dos grandes resultados de nuestro trabajo:
 
 - EL Dashboard
