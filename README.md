@@ -138,7 +138,8 @@ Realizamos una página web interactiva a través de la herramienta streamlit med
 <a href="https://final-grupo5-hfdze4a6jq-uc.a.run.app/">Link Página web</a>
 
 <div align="center">
-  <img src="images/modelo_480.gif" width=480>
+  <img src="images/modelo_480.gif" width=350>
+  <img src="images/modelo_480_2.gif" width=350>
 </div>
 
 
