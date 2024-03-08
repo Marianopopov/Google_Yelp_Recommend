@@ -137,7 +137,7 @@ Realizamos una página web interactiva a través de la herramienta streamlit med
 
 <a href="https://datavision-hfdze4a6jq-uc.a.run.app/">Link Página web</a>
 
-<div align="center">
+<!-- <div align="center">
   <img src="images/dashboard.gif" width=400>
   <img src="images/dashboard2.gif" width=400>
 </div>
@@ -145,8 +145,17 @@ Realizamos una página web interactiva a través de la herramienta streamlit med
 <div align="center">
   <img src="images/modelo_480.gif" width=400>
   <img src="images/modelo_480_2.gif" width=400>
+</div> -->
+
+<div align="center">
+  <img src="images/dash1.gif" width=400>
+  <img src="images/dash2.gif" width=400>
 </div>
 
+<div align="center">
+  <img src="images/mml1.gif" width=400>
+  <img src="images/mml2.gif" width=400>
+</div>
 
 ## Dashboard Interactivo
 Desarrollamos un dashboard interactivo que brinda información gráfica y detallada de nuestros análisis que permite visualizar de manera clara y concisa los insights obtenidos durante el proceso de análisis de mercado.
