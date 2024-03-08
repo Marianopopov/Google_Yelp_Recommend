@@ -135,7 +135,7 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 
 Realizamos una página web interactiva a través de la herramienta streamlit mediante el cual presentamos nuestros productos desarrollados como son un dashboard y un modelo de recomendación. 
 
-<a href="https://final-grupo5-hfdze4a6jq-uc.a.run.app/">Link Página web</a>
+<a href="https://datavision-hfdze4a6jq-uc.a.run.app/">Link Página web</a>
 
 <div align="center">
   <img src="images/dashboard.gif" width=400>
