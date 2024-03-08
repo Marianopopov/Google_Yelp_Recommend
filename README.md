@@ -152,6 +152,10 @@ Desarrollamos un dashboard interactivo que brinda información gráfica y detall
   <img src="images/modelo_ML.jpg">
 </div>
 
+<div align="center">
+  <img src="images/ml.gif">
+</div>
+
 ## *Fuentes de datos*
 
 - [Diccionario de Datos](https://docs.google.com/document/d/1JyRMQQJPGitQEPz7D5zgcfMOSEScAjzd-6Sq229kZZQ/edit)
