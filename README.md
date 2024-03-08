@@ -137,6 +137,10 @@ Realizamos una página web interactiva a través de la herramienta streamlit med
 
 <a href="https://final-grupo5-hfdze4a6jq-uc.a.run.app/">Link Página web</a>
 
+<div align="center">
+  <img src="images/modelo_480.gif" width=480>
+</div>
+
 
 ## Dashboard Interactivo
 Desarrollamos un dashboard interactivo que brinda información gráfica y detallada de nuestros análisis que permite visualizar de manera clara y concisa los insights obtenidos durante el proceso de análisis de mercado.
@@ -152,9 +156,7 @@ Desarrollamos un dashboard interactivo que brinda información gráfica y detall
   <img src="images/modelo_ML.jpg">
 </div>
 
-<div align="center">
-  <img src="images/ml.gif">
-</div>
+
 
 ## *Fuentes de datos*
 
