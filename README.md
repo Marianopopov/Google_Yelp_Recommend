@@ -64,7 +64,7 @@ Su  simple API no requiere conocimientos avanzados de configuracion de rutas, es
 Docker es una plataforma para generar unidades auto contenidas que tiene todo lo que la app necesita para correr y ejecutar su funcionalidad. A Estas unidades se las denomina contenedores y tienen las siguientes caracteristicas:
 
 - Incluyen todas las dependencias: el codigo de la aplicacion, el runtime de ejecucion y las librerias se empaquetan juntas.
-= Cada contenedor corre independientemente del resto, compartiendo el Kernel del sistema operativo pero no recursos.
+- Cada contenedor corre independientemente del resto, compartiendo el Kernel del sistema operativo pero no recursos.
 - Son portables y pueden ser facilmente movidos entre diferentes entornos sin romper la aplicacion.
 - Son mas eficientes que las maquinas virtuales al compartir el kernel.
 
