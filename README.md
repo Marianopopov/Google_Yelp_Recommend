@@ -17,6 +17,7 @@
   - [Diagrama de Gantt](#diagrama-de-gantt)
   - [KPIs](#kpis)
   - [Restricciones y Limitaciones](#restricciones-y-limitaciones)
+- [Deploy](#deploy-en-google-cloud-run)
 - [Dashboard](#dashboard-interactivo)
 - [Modelo-Recomendación](#modelo-de-recomendación)  
 - [Fuentes de datos](#fuentes-de-datos)
@@ -131,7 +132,7 @@ El alcance del proyecto no incluye la implementación de sistemas en producción
 
 </details>
 
-## Deploy en Streamlit
+## Deploy en Google Cloud Run
 
 Realizamos una página web interactiva a través de la herramienta streamlit mediante el cual presentamos nuestros productos desarrollados como son un dashboard y un modelo de recomendación. 
 
