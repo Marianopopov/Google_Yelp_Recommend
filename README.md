@@ -86,7 +86,7 @@ Si bien Stremlit dispone de un servicio apto para realizar el deploy de manera s
 
 - Docker es una de las tecnologias soportadas por Cloud Run, la cual recomienda en su documentacion (si bien admite deploys no-contenedorizados como Node JS o Go).
 - Serverless: Cloud Run se encarga de la adminstracion e infraestrutura ante aumentos o disminuciones de trafico.
-- Cambiando streamlit como fron-end framework (por ejemplo por React JS), el deploy en la nube previo creado el contenedor, es identico.
+- Cambiando streamlit como front-end framework (por ejemplo por React JS), el deploy en la nube previo creado el contenedor, es identico.
 
 
 El proceso para disponibilizar un endpoint publico de la web fue:
