@@ -168,3 +168,30 @@ test*.*
 /notebooks/ETL/*.csv.gz
 /web_interface/
 /GCP_service_account
+
+
+
+# web streamlit
+
+.streamlit/secrets.toml
+.service_account/bigquery.json
+.service_account/bigquery2.json
+Readme.md
+Dockerfile
+app.yaml
+GCP_service_account/
+.env
+data/
+images_readme/
+ML_models/
+Presentacion 1/
+cluster_requirements.txt
+ETL_cloud_function.py
+Main_test3.py
+ML_cloud_function.py
+Readme_DataProc.md
+Readme.md
+Slack_notifications.py
+SMSTest.py
+spark_job_VSC.py
+Trained_ML_test.py

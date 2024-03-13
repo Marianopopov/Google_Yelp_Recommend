@@ -1,0 +1,15 @@
+
+google-cloud-bigquery
+google-cloud-storage
+streamlit-on-Hover-tabs
+streamlit_folium
+python-dotenv
+scikit-learn
+streamlit
+slack_sdk
+db-dtypes
+folium
+pandas
+numpy
+aiohttp
+flask
