@@ -33,11 +33,12 @@ Además nuestro cliente desea determinar estratégicamente la ubicación de nuev
 
 ## Video
 
-<div style="text-align:center;">
-  <a href="https://youtu.be/Npm6p_sSx3I">
-    <img src="images/video.jpg" alt="Descripción de la imagen" width="600" style="display:block; margin:auto;">
+<p align="center">
+  <a href="https://youtu.be/Npm6p_sSx3I" target="_blank">
+    <img src="images/video.jpg" alt="Descripción de la imagen" width="600">
   </a>
-</div>
+</p>
+
 
 ## Contexto
 
