@@ -34,7 +34,7 @@ Además nuestro cliente desea determinar estratégicamente la ubicación de nuev
 ## Video
 
 <p align="center">
-  <a href="https://youtu.be/Npm6p_sSx3I" target="_blank">
+  <a href="https://youtu.be/loU8PfFksy4" target="_blank">
     <img src="images/video.jpg" alt="Descripción de la imagen" width="600">
   </a>
 </p>
